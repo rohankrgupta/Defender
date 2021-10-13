@@ -1,7 +1,7 @@
 TAJ-Defender
 ============
 
-A sand-boxing mechanism to run malicious/untrusted C and C++ codes. This project was done as a part of the 4<sup>th</sup> Sem Operating System Course at the Dept. of Information Technology, National Institute of Technology Karnataka Surathkal. The main objective was to run a C/C++ code whose origin or content is not known.
+A sand-boxing mechanism to run malicious/untrusted C and C++ codes. This project was done as a part of the 4<sup>th</sup> Sem Operating System Course at the Dept. of CSE, National Institute of Technology Durgapur. The main objective was to run a C/C++ code whose origin or content is not known.
 
 How to Run
 ----------
@@ -30,10 +30,6 @@ Please refer to project report in the repository for more details.
 Project Contributors
 --------------------
 
-1. Adarsh Mohata (amohta163@gmail.com)
-2. Ajith P S (ajithpandel@gmail.com)
-3. Ashish Kedia (ashish1294@gmail.com)
-
-a.k.a Team BugAssassins
+1. Rohan Kumar Gupta (rohankrgupta2000@gmail.com)
 
 **Note** : We would like acknowledge several open source sandbox implementations on git-hub. We have used codes not written by others.
