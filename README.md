@@ -6,7 +6,7 @@ A sand-boxing mechanism to run malicious/untrusted C and C++ codes. This project
 How to Run
 ----------
 
-The TAJdefender is very easy to run. The source code of the user program should be placed in the sandbox folder and the shell script test.sh should be run with arguments being the filename of source code and the filename of input file. The shell script will say whether the compilation was unsuccessful, if not it will run the program and save the output file in the same folder. It will terminate with runtime error in-case there is a malicious code snippet.
+The Defender is very easy to run. The source code of the user program should be placed in the sandbox folder and the shell script test.sh should be run with arguments being the filename of source code and the filename of input file. The shell script will say whether the compilation was unsuccessful, if not it will run the program and save the output file in the same folder. It will terminate with runtime error in-case there is a malicious code snippet.
 
 Features
 --------
