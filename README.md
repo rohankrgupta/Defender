@@ -1,4 +1,4 @@
-TAJ-Defender
+Defender
 ============
 
 A sand-boxing mechanism to run malicious/untrusted C and C++ codes. This project was done as a part of the 4<sup>th</sup> Sem Operating System Course at the Dept. of CSE, National Institute of Technology Durgapur. The main objective was to run a C/C++ code whose origin or content is not known.
