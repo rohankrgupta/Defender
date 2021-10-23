@@ -1,9 +1,5 @@
 #!/bin/sh
 
-# This File is a part of TAJ-Defender, TAJ. Created by BugAssassins
-# Submitted as 4th Semester OS Project in Department of Information Technology, NITK
-
-# Checks for proper amount of arguments
 
 if [ $# -ne 1 ]
 then
