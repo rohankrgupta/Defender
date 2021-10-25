@@ -29,7 +29,7 @@ exit
 fi
 
 # using LD_PRELOAD to add these libraries and saving in a temp file
-LD_PRELOAD=`pwd`/TAJdefender.so ./temp.out>OUTPUT
+LD_PRELOAD=`pwd`/defender.so ./temp.out>OUTPUT
 
 #Saving it in a .out file
 tail -n +2 OUTPUT>${file}.out
